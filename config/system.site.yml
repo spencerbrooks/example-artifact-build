@@ -1,0 +1,14 @@
+uuid: b03ab1be-a2c1-4811-8ccf-3631e429c755
+name: example-artifact-build
+mail: spencer@brooks.digital
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
